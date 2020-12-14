@@ -1,5 +1,5 @@
 # GBT_RF_Diamonds
-In this exercise, I used the diamonds.csv dataset from Kaggle to build tree based models that attempt to predict diamond price using PySpark. If you haven't already, please see my Diamonds_Data_Modeling repository where I used linear regression to accomplish the same task. Overall, I was able to reduce the MSE from 1,307,177 to 437,000 using a GBT and random forest regressor. In this notebook I performed feature engineering on the data, implemented a spark machine learning pipeline, conducted feature importance and performed extensive hyperparameter tuning on multiple tree based algorithms. The dataset is described below.
+In this exercise, I used the diamonds.csv dataset from Kaggle to build tree based models that attempt to predict diamond price in PySpark. If you haven't already, please see my Diamonds_Data_Modeling repository where I used linear regression to accomplish the same task. Overall, I was able to reduce the MSE from 1,307,177 to 437,000 using a GBT and random forest regressor. In this notebook I performed feature engineering on the data, implemented a spark machine learning pipeline, conducted feature importance and performed extensive hyperparameter tuning on multiple tree based algorithms. The dataset is described below.
 
 The diamonds.csv data set contains 10 columns:
 
